@@ -1,5 +1,3 @@
-
-
 var item = [{ "jumlah": 10, "nama": "Jet Tempur" },
 { "jumlah": 1, "nama": "Nuklir Hiroshima" },
 { "jumlah": 6, "nama": "Infinity Stone" },
